@@ -1,0 +1,94 @@
+site_name: I-You-We-It
+
+theme:
+  name: material
+
+nav:
+  - Title: en/01 Title.md
+  - Preface: en/02 Preface.md
+  - Introduction: en/03 INTRODUCTION.md
+
+  - The Domain (Industrial Content Synthesis):
+    - The Industrial Content Synthesis Domain: en/05 The Industrial Content Synthesis Domain.md
+    - Prompt-Level Operation: en/06 Prompt-Level Operation.md
+    - Institutional Load and Structural Entropy: en/07 Institutional Load and Structural Entropy.md
+    - Structural Requirements Under Load: en/08 Structural Requirements Under Load.md
+    - The Domain Under Institutional Load: en/09 The Domain Under Institutional Load.md
+
+
+  - Mechanics:
+      - The Conversational Large Language Model: en/11 The Conversational Large Language Model.md
+      - Approximation Under Uncertainty: en/12 Approximation Under Uncertainty.md
+      - Pattern Generation, Not Intention: en/13 Pattern Generation, Not Intention.md
+      - Tokens, Limits, and Boundaries: en/14 Tokens, Limits, and Boundaries.md
+      - The I-You-We-It Model: en/15 The I-You-We-It Model.md
+      - The I: en/16 The I.md
+      - The You: en/17 The You.md
+      - The We: en/18 The We.md
+      - The It: en/19 The It.md
+      - Reinjection: en/20 Reinjection.md
+      - Behavioral Configuration and Actor Instantiation: en/21 Behavioral Configuration and Actor Instantiation.md
+      - Memory and Continuity: en/22 Memory and Continuity.md
+      - Continuity Across Sessions: en/23 Continuity Across Sessions.md
+      - Constraint Reinforcement: en/24 Constraint Reinforcement.md
+      - Variance Control: en/25 Variance Control.md
+      - Vocabulary and Anchor Discipline: en/26 Vocabulary and Anchor Discipline.md
+      - Parallel State Isolation: en/27 Parallel State Isolation.md
+
+  - Art:
+      - Prediction Enables Scale: en/29 Prediction Enables Scale.md
+      - Working Within I-You-We-It: en/30 Working Within I-You-We-It.md
+      - Meta-Orientation: en/31 Meta-Orientation.md
+      - Structural Alignment: en/32 Structural Alignment.md
+      - Explicit Purpose Declaration: en/33 Explicit Purpose Declaration.md
+      - Spine Definition and Freezing: en/34 Spine Definition and Freezing.md
+      - Lens Definition and Refinement: en/35 Lens Definition and Refinement.md
+      - Iterative Lifecycle Discipline: en/36 Iterative Lifecycle Discipline.md
+      - Structural Checkpointing: en/37 Structural Checkpointing.md
+      - Refactoring Within and Across Cycles: en/38 Refactoring Within and Across Cycles.md
+      - Structured Non-Linear Convergence: en/39 Structured Non-Linear Convergence.md
+      - Encapsulation and Interface Stability: en/40 Encapsulation and Interface Stability.md
+      - Regeneration Cost and Human Bandwidth: en/41 Regeneration Cost and Human Bandwidth.md
+      - Predictable Value Under Constraint: en/42 Predictable Value Under Constraint.md
+      - Completion as Tolerance Contraction: en/43 Completion as Tolerance Contraction.md
+      - Architectural Integrity: en/44 Architectural Integrity.md
+      - Gap Detection and Probing: en/45 Gap Detection and Probing.md
+      - Feedback as Variance Compression: en/46 Feedback as Variance Compression.md
+      - Audit Posture Isolation and Controlled Enforcement: en/47 Audit Posture Isolation and Controlled Enforcement.md
+
+  - Scaling:
+      - Eliminating Reinvention and Institutional Drift: en/49 Eliminating Reinvention and Institutional Drift.md
+      - Compression of Stabilization Latency: en/50 Compression of Stabilization Latency.md
+      - Reduction of Coordination Cost: en/51 Reduction of Coordination Cost.md
+      - Predictability and Regeneration Stability: en/52 Predictability and Regeneration Stability.md
+      - Compounding Institutional Knowledge: en/53 Compounding Institutional Knowledge.md
+      - Single-Prompt Synthesis: en/54 Single-Prompt Synthesis.md
+      - Multi-Prompt Synthesis: en/55 Multi-Prompt Synthesis.md
+      - Session-Level Functional Distribution: en/56 Session-Level Functional Distribution.md
+      - Alternate Rendering from a Stable Base: en/57 Alternate Rendering from a Stable Base.md
+      - Structural Irreversibility: en/58 Structural Irreversibility.md
+
+  - Practice:
+      - Order Before Output: en/60 Order Before Output.md
+      - Product Development Method: en/61 Product Development Method.md
+      - Structured Content Lifecycle: en/62 Structured Content Lifecycle.md
+      - Repository, Lineage, and Authority: en/63 Repository, Lineage, and Authority.md
+      - Quality Gates and Tolerance: en/64 Quality Gates and Tolerance.md
+      - Collaborative Structured Content Engineering: en/65 Collaborative Structured Content Engineering.md
+      - Provenance in Structured Collaboration: en/66 Provenance in Structured Collaboration.md
+      - Content Synthesis and Batch Processing: en/67 Content Synthesis and Batch Processing.md
+      - Compliance and Professional Boundaries: en/68 Compliance and Professional Boundaries.md
+      - Industrial Content Synthesis: en/69 Industrial Content Synthesis.md
+
+  - Demonstration:
+      - How This Manuscript Was Built: en/71 How This Manuscript Was Built.md
+      - Measurement Dimensions: en/72 Measurement Dimensions.md
+      - Observed Values: en/73 Observed Values.md
+      - Industrial Positioning: en/74 Industrial Positioning.md
+      - What This Demonstrates: en/75 What This Demonstrates.md
+
+  - Conclusion: en/76 CONCLUSION.md
+  - Declaration: en/77 DECLARATION.md
+  - Epilogue: en/78 Epilogue.md
+  - Quick Reference: en/79 QUICK REFERENCE.md
+  - Certification: en/80 CERTIFICATION.md

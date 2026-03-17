@@ -1,6 +1,6 @@
 # AI on AI
 
-## I, You, We, It
+## I-You-We-It
 
 ### Industrial Content Synthesis using AI
 
